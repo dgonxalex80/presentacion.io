@@ -1,0 +1,131 @@
+---
+title: "Area de Estadística"
+subtitle: "Departamento de Ciencias Naturales y Matemáticas"  
+author: "Pontificia Universidad Javeriana Cali" 
+date: '`r Sys.Date()`'
+output:
+  xaringan::moon_reader:
+    seal: true
+    css: xaringan-themer.css
+    nature:
+      slideNumberFormat: "%current%"
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = TRUE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE
+)
+
+
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#151B51",
+  secondary_color = "#94E1E1",
+  inverse_header_color = "#FFFFFF"
+)
+```
+
+## Agenda
+
+1. Palabras del director del departamento Dr. Danny Rojas <br/><br/>
+2. Información sobre el área - 2022-2 <br/><br/>
+3. Espacio de dialogo <br/><br/>
+4. Varios
+---
+
+### Profesores del área de Estadística 2022-2
+
+| Cátedra                   | Planta                          | Monitores        |
+|:--------------------------|:--------------------------------|:-----------------| 
+| Alonso Arroy              | Sandra Milena Ramirez           | Juan Camilo Ordoñez      |
+| Gerardo  Ramírez          | Isabel Cristina Garcia          | Juan Francisco Botero    |
+| José Aldinever Bonilla    |  David Londoño                  | Cristian Andrés Mosquera |
+| Delia Ortega              |  Daniel Enrique González        |                  |
+| Diego Fernando Mosquera   |                                 |                  |
+| Jennyfer  Portilla        |                                 |                  |
+| Maria del Carmen Andrade  |                                 |                  |
+
+
+
+---
+
+### Cursos pregrado
+
+| Facultad     | Asignatura                   | Grupos           | Programas                |
+|:-------------|:-----------------------------|:-----------------|:-------------------------|
+| Humanidades  | 300MAE001 Estadística para las Ciencias Sociales | A | Ciencias Políticas  |
+|              | 300MAE002 Estadística I      | A, B              | Psicología              |
+|              | 300MAE003 Estadística II     | A                 | Psicología              | 
+|Ciencias Económicas y Administrativas| 300MAE018 Estadística para la toma de decisiones | B, C, ADEA, ADED, ADEX | Administación de Empresas |
+|                                     |                                                  |                        | Negocios Internacionales  |
+|                                     |                                                  |                        | Mercadeo                  |
+|                                     |                                                  |                        | Finanzas                  |
+
+---
+
+### Cursos pregrado
+
+| Facultad     | Asignatura                   | Grupos           | Programas                |
+|:-------------|:-----------------------------|:-----------------|:-------------------------|
+| Ingeniería y Ciencias  | 300MAE005 Probabilidad y Estadística   | A, B, C, E           |  Ingeniería Civil       |
+|                        |                                        |                      |  Ingeniería de Sistemas |
+|                        |                                        |                      |  Ingeniería Electrónica |
+|                        |                                        |                      |  Ingeniería Mecánica    |
+|                        |                                        |                      |  Ingeniería Biomédica   |
+|                        |                                        |                      |  Biología               |
+|                        |                                        |                      |                         |
+|                        | 300MAE013 Teoría de Probabilidades     | A, B                 |  Ingeniería Industrial  |
+|                        | 300MAE014 Estadística Aplicada         | A,B                  |  Matemáticas Apliadas   |
+|                        |                                        |                      |  Economía               |
+|                        | 
+
+---
+### Cursos pregrado
+
+| Facultad     | Asignatura                   | Grupos           | Programas                |
+|:-------------|:-----------------------------|:-----------------|:-------------------------|
+| Ingeniería y Ciencias  | 300MAE011 Estadística Avanzada | A    | Matemáticas Aplicadas    |
+|                        | 300MAE012 Bioestadística       | A    | Biología                 |
+
+---
+### Cursos posgrado
+
+| Facultad     | Asignatura                   | Grupos           | Programas                |
+|:-------------|:-----------------------------|:-----------------|:-------------------------|
+| Ingeniería y Ciencias  | 400MAE   Nivelatorio de Estadística   | A               | Maestría en Ciencia de Datos |
+|                        | 400MAE  Métodos y Simulación Estadística | A,B          | Maestría en Ciencia de Datos |
+|                        | 400MAE  Modelos Estadísticos para la toma de decisiones | A,B | Maestría en Ciencia de Datos |
+|                        | 400MAE                                                  | A | Doctorado en Ingeniería      |
+|                        |                                                         |                              |
+| Ciencias Económicas y Administrativas | 400MAE                                   | A| MBA                          | 
+
+
+Direcciones de proyectos de grado Maestría en Ciencia de Datos : 14 a cargo de profesores del área
+
+---
+
+### Investigación
+
+<br/><br/>
+
+### Consultoría 
+---
+class: center, middle
+
+# Gracias
+
+
