@@ -39,7 +39,7 @@ knitr::include_graphics("img/git-logo.png")
 
 .pull-right[
 
-+ Software gratuito para realizar control de versiones a los programadore.
++ Software gratuito para realizar control de versiones a los programadores.
 
 + Permite el seguimiento de cambios en cualquier conjunto de archivos.
 
@@ -47,10 +47,9 @@ knitr::include_graphics("img/git-logo.png")
 
 + Se descarga de la página : https://git-scm.com/ , dependiedo el sistema operativo (macOS, Windows, Linux/Unix)
 
-+ Por lo general viene preinstalado en los cumputadores
++ Por lo general viene preinstalado en los cumputadores ( para saberlos se puede digitar en la terminal : `git --version`)
 
 ]
-
 
 ---
 # Que es GitHub
@@ -59,7 +58,7 @@ knitr::include_graphics("img/git-logo.png")
 
 + Es un servicio de alojamiento de  internet para el desarrollo de software y control de versiones (red social de progrmadores). Recientemente fué comprada por Microsof y mantiene su servicio gratuito.
 
-+ Funciona como una cuenta de correo que hay que crear y administrar, sobre la cual se crean repositorio para manejar nuestros proyectos. 
++ Funciona como una cuenta de correo que hay que crear y administrar, sobre la cual se abren repositorio para manejar nuestros proyectos. 
 
 ]
 
@@ -70,20 +69,29 @@ knitr::include_graphics("img/github-logo.png")
 ```
 ]  
 
-+ Pasos para crear cuenta :
+---
+
+#  Pasos para crear cuenta :
+
   + Ir a la página : https://github.com/
+  
   + Entrar por **Sign up**
+
   + Entrar una cuenta de correo (que identifica la cuenta y donde se envia código de verificación) 
+
   + Crear clave
+
   + Verificación mediante número enviado al correo 
+
   + Selección de número de personas del equipo / Estudiantes o profesor
+
   + Se elege la versión libre
 
 ---
 
 # Pasos para crear un sitio personal
 
-Existe varias forma de craar un sitio personal, en nuestro caso utilizaremos recursos librfes y github como medio de publicación
+Existe varias forma de craar un sitio personal, en nuestro caso utilizaremos recursos libres (plantilla Minimal Bootstrap)  y Github como medio de publicación
 
  + **Paso 1** : verificar que tengamos instalado **git** en el computador. En caso contrario instalarlo
  
@@ -99,14 +107,26 @@ Existe varias forma de craar un sitio personal, en nuestro caso utilizaremos rec
  
  + **Paso 7** : Mi primera publicación  
 
-**Producto final**
+---
 
-|repositorio                          | github                               |
-|:------------------------------------|:-------------------------------------|
-|https://abelalv.github.io/abel.io/   | https://github.com/abelalv/abel.io/|  
-|https://dgonxalex80.github.io/dgonzalezweb/ |https://github.com/dgonxalex80 |
+# Producto final
 
 
+|repositorio                                   | github                               |
+|:---------------------------------------------|:-------------------------------------|
+|https://abelalv.github.io/abel.io/            | https://github.com/abelalv/abel.io/  |  
+|                                              |                                      |
+|https://dgonxalex80.github.io/dgonzalezweb/   | https://github.com/dgonxalex80       |
+
+### Referencias
+
++ [Minimal Bootstrap Template](https://templatemag.com/minimal-bootstrap-template/#google_vignette)
+
++ Imágenes libres
+  + [pixabay](https://pixabay.com/)
+  + [Pexels](https://www.pexels.com/es-es/)
+  + [Unsplash](https://unsplash.com/es)
+  
 ---
 
 # Otras aplicaciones
@@ -114,6 +134,8 @@ Existe varias forma de craar un sitio personal, en nuestro caso utilizaremos rec
 ### https://dgonxalex80.github.io/pye20222/
 
 ### https://abelalv.github.io/book-EDO/intro.html
+
+
 
 ---
 class: center, middle
