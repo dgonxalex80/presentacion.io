@@ -46,15 +46,15 @@ style_duo_accent(
 
 * Créditos : **3**
 * Horas clase : **4 horas/semana** (4 x 16 = 64 h) (*)
+* Total horas trabajo independiente : **80**
 * Horas de acompañamiento monitor : **1 hora/semana** (16 h)
-* Total horas trabajo independiente : **64**
-* Total de horas : **144**
+* Total de horas : **144** (3 x 48)
 
 * Prerrequisitos: Calculo integral
 * Correquisitos:  NA
 * Asignaturas equivalentes:  NA
 * Cupo máximo por grupo:  30.
-* Modalidad: **presencial** (dos sesiones presenciales y una sesión digital asincrónica digital)
+* Modalidad: **presencial** (dos sesiones presenciales y una sesión asincrónica digital)
 * Idioma en que se imparte: español.
 
 ---
